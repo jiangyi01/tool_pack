@@ -1,0 +1,6 @@
+# Only the tools listed here are part of tool_pack; everything else in this folder stays local.
+/*
+!/.gitignore
+!/README.md
+!/LittleBox/
+.DS_Store
